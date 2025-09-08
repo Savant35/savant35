@@ -1,4 +1,4 @@
-## 💫 Hi I am Ali:
+## 👋 Hi I am Ali:
 💻 Software Engineer<br>
 🎓Bachelors of Science in Computer Science from Gannon University<br>
 🛠️ I’m currently learning system design
