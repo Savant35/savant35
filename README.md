@@ -34,9 +34,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=savant35&theme=tokyonight&hide_border=false&cache_seconds=86400" width="280" height="140" />
+  <img src="https://github-readme-stats-beryl-eta-47.vercel.app/api?username=savant35&theme=tokyonight&hide_border=false&cache_seconds=86400" width="280" height="140" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=savant35&theme=tokyonight&hide_border=false&cache_seconds=86400" width="310" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savant35&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=86400" width="225" height="155" />
+  <img src="https://github-readme-stats-beryl-eta-47.vercel.app/api/top-langs/?username=savant35&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=86400" width="225" height="155" />
 
 </div>
 
