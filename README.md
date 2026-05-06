@@ -42,9 +42,9 @@ Translating my cognitive research on forgetting and retention into a practical t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-beryl-eta-47.vercel.app/api?username=savant35&theme=tokyonight&hide_border=false&cache_seconds=86400" width="280" height="140" />
-  <img src="https://github-readme-streak-stats-seven-steel.vercel.app/?user=savant35&theme=tokyonight&hide_border=false" width="310" height="140" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats-beryl-eta-47.vercel.app/api/top-langs/?username=savant35&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=86400" width="225" height="155" />
+  <img src="https://github-readme-stats-beryl-eta-47.vercel.app/api?username=savant35&theme=tokyonight&hide_border=false&cache_seconds=86400" height="135" alt="GitHub Stats" />&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats-seven-steel.vercel.app/?user=savant35&theme=tokyonight&hide_border=false" height="135" alt="GitHub Streak Stats" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats-beryl-eta-47.vercel.app/api/top-langs/?username=savant35&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=86400" height="135" alt="Top Languages" />
 </div>
 
 ## 🤝 Let's Connect
